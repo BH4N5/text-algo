@@ -4,3 +4,6 @@
 # LaTeX
 myclass.cls
 *.pdf
+
+# VS Code
+.vscode
