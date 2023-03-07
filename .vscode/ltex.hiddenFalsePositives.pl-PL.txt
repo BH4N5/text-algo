@@ -1,1 +1,0 @@
-{"rule":"RAPPORT","sentence":"^\\QW raporcie zamieść liczbę dopasowań każdego ze wzorców osobno dla każdego algorytmu.\\E$"}
