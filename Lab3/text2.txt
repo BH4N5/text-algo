@@ -8,34 +8,33 @@ ISBN 978-83-288-2903-9
 
 
 OSOBY:
- * ESKALUS — książę w Weronie
+ * ESKALUS — książę panujący w Weronie
  * PARYS — młody Weroneńczyk szlachetnego rodu, krewny księcia
  * MONTEKI, KAPULET — naczelnicy dwóch domów nieprzyjaznych sobie
  * STARZEC — stryjeczny brat Kapuleta
- * ROMEO — syn Montekiego
+ * ROMEO — syn 
  * MERKUCJO — krewny księcia
  * BENWOLIO — synowiec Montekiego
- * TYBALT — krewny Pani 
+ * TYBALT — krewny Pani Kapulet
  * LAURENTY — ojciec franciszkanin
  * JAN — brat z tegoż zgromadzenia
  * BALTAZAR — służący Romea
  * SAMSON, GRZEGORZ — słudzy Kapuleta
- * ABRAHAM — Montekiego
+ * ABRAHAM — służący Montekiego
  * APTEKARZ
  * TRZECH MUZYKANTÓW
  * PAŹ PARYSA
  * PIOTR
- * DOWÓDCA WARTY
- * PANI MONTEKI — małżonka Montekiego
+ * DOWÓDCA WARTY* PANI MONTEKI — małżonka Montekiego
  * PANI KAPULET — małżonka Kapuleta
  * JULIA — córka Kapuletów
  * MARTA — mamka Julii
- * Obywatele weroneńscy, różne osoby płci obojej, liczący się do przyjaciół obu domów, maski, wojskowa i inne osoby.
+ * Obywatele weroneńscy, różne osoby płci obojej, liczący się do przyjaciół obu domów, maski, straż wojskowa i inne osoby.
 
 
 
 
-Rzecz odbywa się przez większą sztuki w Weronie, przez część piątego aktu w Mantui.
+Rzecz odbywa się przez większą część sztuki w Weronie, przez część piątego aktu w Mantui.
 
 
 
@@ -43,20 +42,22 @@ PROLOG
 
 Przełożył Jan Kasprowicz
 
-Dwa rody, zacne jednako i sławne —
+Dwa rody, zacne jednako i sławne 
 Tam, gdzie się rzecz ta rozgrywa, w Weronie,
-Do zbrodni pchają złości dawne,
+Do nowej zbrodni pchają złości dawne,
 Plamiąc szlachetną krwią szlachetne dłonie
 
-Z łon tych dwu wrogów wzięło bowiem życie,
+Z łon tych dwu wrogów wzięło bowiem 
 Pod najstraszliwszą z gwiazd, kochanków dwoje;
-Po pełnym przygód nieszczęśliwych bycie
+Po pełnym przygód nieszczęśliwych 
 Śmierć ich stłumiła rodzicielskie boje.
 
 Tej ich miłości przebieg zbyt bolesny
 I jak się ojców nienawiść nie zmienia,
 Aż ją zakończy dzieci zgon przedwczesny,
-Dwugodzinnego treścią przedstawienia,Które otoczcie cierpliwymi względy,
+Dwugodzinnego treścią przedstawienia,
+
+Które cierpliwymi względy,
 Jest w nim co złego, my usuniem błędy…
 
 
@@ -66,10 +67,12 @@ AKT PIERWSZY
 
 
 
-SCENA PIERWSZA/ Plac Wchodzą Samson i Grzegorz uzbrojeni w tarcze i miecze. /
+SCENA PIERWSZA
+
+/ Plac publiczny. Wchodzą Samson i Grzegorz uzbrojeni w tarcze i miecze. /
 
 
-
+SAMSON
 
 Dalipan, Grzegorzu, nie będziem darli pierza.
 
@@ -81,17 +84,17 @@ Ma się rozumieć, bobyśmy byli zdziercami.
 
 SAMSON
 
-Ale będziemy darli koty, jak z nami zadrą.
+Ale będziemy darli koty, jak z zadrą.
 
 
 GRZEGORZ
 
-Kto zechce zadrzeć z nami, będzie musiał zadrżeć.
+zechce zadrzeć z nami, będzie musiał zadrżeć.
 
 
 SAMSON
 
-Mam zwyczaj drapać zaraz, mię kto rozrucha.
+Mam zwyczaj drapać zaraz, jak mię kto 
 
 
 GRZEGORZ
@@ -106,12 +109,10 @@ Te psy z domu Montekich rozruchać mię mogą bardzo łatwo.
 
 GRZEGORZ
 
-Rozruchać się tyle znaczy co ruszyć się z miejsca; być walecznym jest to stać nieporuszenie: pojmuję więc, że rozruchania się twego - drapnięcie.
+Rozruchać się tyle znaczy co ruszyć się z miejsca; być walecznym jest to stać nieporuszenie: pojmuję więc, że skutkiem rozruchania się twego będzie - drapnięcie.
 
 
-SAMSON
-
-Te z domu Montekich rozruchać mogą tylko do stania na miejscu. Będę jak mur dla każdego mężczyzny i każdej kobiety z tego domu.
+SAMSONTe psy z Montekich mię mogą tylko do stania na miejscu. Będę jak mur dla każdego mężczyzny i każdej kobiety z tego domu.
 
 
 GRZEGORZ
@@ -121,7 +122,7 @@ To właśnie pokazuje twoją słabą stronę; mur dla nikogo niestraszny i tylko
 
 SAMSON
 
-dlatego to jako najsłabsze, tulą się zawsze do muru. Ja też odtrącę od muru ludzi Montekich, a kobiety Montekich przyprę do muru.
+Prawda, dlatego to kobiety, jako najsłabsze, tulą się zawsze do muru. Ja też odtrącę od muru ludzi Montekich, a kobiety Montekich przyprę do 
 
 
 GRZEGORZ
@@ -129,17 +130,19 @@ GRZEGORZ
 Spór jest tylko między naszymi panami i między nami, ich ludźmi.
 
 
+SAMSON
+
+Mniejsza o to, będę nieubłagany. Pobiwszy ludzi, wywrę wściekłość na kobietach: między nimi sprawię.
 
 
-Mniejsza mi o to, będę nieubłagany. Pobiwszy ludzi, wywrę wściekłość na kobietach: rzeź między nimi sprawię.
+GRZEGORZ
 
-
-GRZEGORZRzeź kobiet chcesz przedsiębrać?
+Rzeź przedsiębrać?
 
 
 SAMSON
 
-Nie inaczej: wtłoczę miecz w każdą po kolei. Wiadomo, że się do lwów liczę.
+Nie inaczej: wtłoczę miecz w każdą kolei. Wiadomo, że się do lwów liczę.
 
 
 GRZEGORZ
@@ -166,12 +169,12 @@ Nie bój się.
 
 GRZEGORZ
 
-bym się miał bać z twojej przyczyny!
+Ja bym się miał bać z twojej przyczyny!
 
 
 SAMSON
 
-Miejmy prawo za sobą, niech oni zaczną.
+Miejmy za sobą, niech oni zaczną.
 
 
 GRZEGORZ
@@ -191,7 +194,7 @@ Skrzywiłeś się na nas, mości panie?
 
 SAMSON
 
-inaczej, skrzywiłem się.
+Nie inaczej, skrzywiłem się.
 
 
 ABRAHAM
@@ -203,7 +206,7 @@ SAMSON
 
 / do Grzegorza /
 
-Będziemy–ż mieli prawo za sobą, jak powiem: tak jest?
+Będziemy–ż mieli prawo sobą, jak powiem: tak jest?
 
 
 GRZEGORZ
@@ -230,7 +233,7 @@ Zaczepki? nie.
 
 SAMSON
 
-Jeżeli jej szukasz, to jestem na waścine usługi. Mój pan tak dobry jak i wasz.
+jej szukasz, to na waścine usługi. Mój pan tak dobry jak i wasz.
 
 
 ABRAHAM
@@ -242,14 +245,14 @@ SAMSON
 
 Niech i tak będzie.
 
-/ Benwolio ukazuje się w głębi. /
+/ Benwolio ukazuje w głębi. /
 
 
 GRZEGORZ
 
 / na stronie do Samsona /
 
-Powiedz: lepszy. nadchodzi jeden z krewnych mego pana.
+Powiedz: lepszy. Oto nadchodzi jeden z krewnych mego pana.
 
 
 SAMSON
@@ -259,21 +262,19 @@ Nie inaczej; lepszy.
 
 ABRAHAM
 
-
+Kłamiesz.
 
 
 SAMSON
 
-Dobądźcie mieczów, jeśli macie serca. pamiętaj o swoim pchnięciu.
+Dobądźcie mieczów, jeśli macie serca. Grzegorzu, pamiętaj o swoim pchnięciu.
 
 
 BENWOLIO
 
 Odstąpcie, głupcy; schowajcie miecze do pochew. Sami nie wiecie, co robicie.
 
-/ Rozdziela ich swoim /
-
-/ Wchodzi Tybalt. /
+/ Rozdziela ich swoim mieczem. // Wchodzi Tybalt. /
 
 
 TYBALT
@@ -284,14 +285,14 @@ Do mnie, Benwolio! pilnuj swego życia.
 
 BENWOLIO
 
-Przywracam tylko pokój. Włóż miecz nazad
+Przywracam tylko pokój. Włóż miecz 
 Albo wraz ze mną rozdziel nim tych ludzi.
 
 
 TYBALT
 
 Z gołym orężem pokój? Nienawidzę
-Tego wyrazu, tak jak 
+Tego wyrazu, tak nienawidzę
 Szatana, wszystkich Montekich i ciebie.
 Broń się, nikczemny tchórzu.
 
@@ -300,19 +301,16 @@ Broń się, nikczemny tchórzu.
 
 PIERWSZY OBYWATEL
 
-Hola! berdyszów! pałek! Dalej po nich!
-Precz z Montekimi, precz z Kapuletami!
-
-/ Wchodzą Kapulet i Pani Kapulet /
+Hola! berdyszów! pałek! Dalej po nich!Precz z Montekimi, precz z Kapuletami!/ Wchodzą i Pani Kapulet /
 
 
-KAPULET
+
 
 Co za hałas? Podajcie mi długi
 Mój miecz! hej!
 
 
-PANI 
+PANI KAPULET
 
 Raczej kulę; co ci z miecza?
 
@@ -320,7 +318,9 @@ Raczej kulę; co ci z miecza?
 KAPULET
 
 Miecz, mówię! Stary Monteki nadchodzi.
-I szydnie swoją klingą mi urąga./ Wchodzą Monteki i Pani Monteki. /
+I szydnie swoją klingą mi urąga.
+
+/ Wchodzą Monteki i Pani Monteki. /
 
 
 MONTEKI
@@ -334,7 +334,7 @@ Ha! nędzny Kapulecie!
 
 PANI MONTEKI
 
-Nie puszczę cię na krok, gdy wróg tobą.
+Nie puszczę cię na krok, gdy wróg przed tobą.
 
 / Wchodzi Książę z orszakiem. /
 
@@ -342,44 +342,50 @@ Nie puszczę cię na krok, gdy wróg tobą.
 KSIĄŻĘ
 
 Zapamiętali niesforni poddani,
-Bezcześciciele bratniej stali! Cóż to,
-Czy nie słyszycie? Ludzie czy zwierzęta,
+bratniej stali! Cóż to,Czy nie słyszycie? Ludzie czy zwierzęta,
 Co wściekłych swoich gniewów żar gasicie
 W własnych żył swoich źródle purpurowym;
 Pod karą tortur wypuśćcie natychmiast
-dłoni skrwawionych tę broń buntowniczą
+Z dłoni skrwawionych tę broń buntowniczą
 I posłuchajcie tego, co niniejszym
-Wasz książę postanawia.
+Wasz rozjątrzony książę postanawia.
 Domowe starcia, z marnych słów zrodzone
 Przez was, Monteki oraz Kapulecie,
-Trzykroć już spokój miasta 
+Trzykroć już spokój miasta zakłóciły,
 Tak że poważni wiekiem i zasługą
 Obywatele werońscy musieli
 Porzucić swoje wygodne przybory
-I w stare dłonie stare ująć miecze,By zardzewiałym ostrzem zardzewiałe
+I w stare dłonie stare ująć miecze,
+By zardzewiałym ostrzem zardzewiałe
 Niechęci wasze przecinać. Jeżeli
 Wzniecicie kiedyś waśń podobną,
 Zamęt pokoju opłacicie życiem.
-teraz wszyscy ustąpcie niezwłocznie.
-Kapulecie, pójdziesz ze mną razem;
-Ty zaś, Monteki, przyjdziesz południu
+A teraz wszyscy ustąpcie niezwłocznie.
+Ty, Kapulecie, pójdziesz mną razem;
+Ty zaś, Monteki, przyjdziesz po południu
 Na ratusz, gdzie ci dokładnie w tym względzie
-Dalsza ma wola oznajmiona 
-Jeszcze raz wzywam wszystkich tu obecnychPod karą śmierci, aby się rozeszli./ Książę z orszakiem wychodzi. Podobnież Kapulet, Pani Kapulet, Tybalt, obywatele i /
+Dalsza ma wola oznajmiona będzie.
+Jeszcze raz wzywam wszystkich tu obecnych
+Pod karą śmierci, aby się rozeszli.
+
+/ Książę orszakiem wychodzi. Podobnież Kapulet, Pani Kapulet, Tybalt, obywatele i słudzy. /
 
 
 MONTEKI
 
 Kto wszczął tę nową zwadę? Mów, synowcze,
-Był żeś tu wtedy, gdy się to zaczęło?BENWOLIO
+Był żeś tu wtedy, gdy się to zaczęło?
+
+
+BENWOLIO
 
 Nieprzyjaciela naszego pachołcy
 I wasi już się bili, kiedym nadszedł;
-Dobyłem broni, aby rozdzielić:
-Wtem szalony Tybalt z gołym mieczem,
-I harde zionąc mi w uszy wyzwanie,
-Jął się wywijać i siec powietrze,
-Które świszczało tylko szydząc z marnych
+Dobyłem broni, aby ich rozdzielić:
+Wtem wpadł szalony Tybalt z gołym mieczem,
+harde zionąc mi w uszy wyzwanie,
+Jął się wywijać nim i siec powietrze,
+Które świszczało tylko szydząc z 
 Jego zamachów. Gdyśmy tak ze sobą
 Cięcia i pchnięcia zamieniali, zbiegł się
 Większy tłum ludzi; z obu stron walczono,
@@ -389,35 +395,33 @@ Aż książę nadszedł i rozdzielił wszystkich.
 PANI MONTEKI
 
 Lecz gdzież Romeo? Widział żeś go dzisiaj?
-Jakże się cieszę, że nie był w tym starciu.
+Jakże się cieszę, że nie był tym starciu.
 
 
 BENWOLIO
 
 Godziną pierwej, nim wspaniałe słońce
-złotych się wschodu ukazało,
+W złotych się oknach wschodu ukazało,
 Troski wygnały mię z dala od domu
-W sykomorowy ów gaj, co się ciągnie
+W sykomorowy ów gaj, się ciągnie
 Ku południowi od naszego miasta.
 Tam, już tak rano, syn wasz się przechadzał.
-Ledwiem go ujrzał, pobiegłem ku niemu;Lecz on, spostrzegłszy mię, skrył się natychmiast
-I najciemniejszej ukrył się gęstwinie.
+Ledwiem go ujrzał, pobiegłem ku niemu;
+Lecz on, spostrzegłszy mię, skrył się natychmiast
+I w najciemniejszej ukrył się gęstwinie.
 Pociąg ten jego do odosobnienia
 Mierząc mym własnym (serce nasze bowiem
 Jest najczynniejsze, kiedyśmy samotni),
 Nie przeszkadzałem mu w jego dumaniach
-w inną stronę się udałem, chętnie
+I w inną stronę się udałem, chętnie
 Stroniąc od tego, co rad mnie unikał.
 
 
-MONTEKI
-
-Nieraz o świcie już go tam widziano
+MONTEKINieraz o świcie już go tam widziano
 Łzami poranną mnożącego rosę,
 A chmury — swego oblicza chmurami,
-Aliści ledwo na najdalszym wschodzie
-Wesołe słońce sprzed łoża Aurory
-Zaczęło ściągać kotarę,
+Aliści ledwo najdalszym wschodzieWesołe słońce sprzed łoża Aurory
+Zaczęło ściągać cienistą kotarę,
 On, uciekając od widoku światła,
 Co tchu zamykał się w swoim pokoju;
 Zasłaniał okna przed jasnym dnia blaskiem
@@ -428,12 +432,12 @@ Jeśli się na to lekarstwo nie znajdzie.
 
 BENWOLIO
 
-Szanowny stryju, znasz–że tego?
+Szanowny znasz–że powód tego?
 
 
 MONTEKI
 
-znam i z niego wydobyć nie mogę.
+Nie znam i z niego wydobyć nie mogę.
 
 
 BENWOLIO
@@ -445,15 +449,13 @@ MONTEKI
 
 Wybadywałem i sam, i przez drugich,
 Lecz on jedyny powiernik swych smutków.
-Tak im jest wierny, tak zamknięty w sobie,
-Od otwartości wszelkiej tak daleki
-Jak pączek kwiatu, co go robak gryzie,
-Nim światu wonny swój kielich roztoczył
+Tak wierny, tak zamknięty w 
+Od wszelkiej tak 
+Jak kwiatu, co go robak gryzie,
+Nim wonny swój kielich roztoczył
 I pełność swoją rozwinął przed słońcem.
-Gdybyśmy mogli tych trosk zarodka,
-Nie zbrakłoby nam zaradczego środka.
-
-Romeo ukazuje się w głębi. /
+Gdybyśmy mogli dojść tych trosk zarodka,
+Nie zbrakłoby nam zaradczego środka./ Romeo ukazuje się w głębi. /
 
 
 BENWOLIO
@@ -462,10 +464,8 @@ Oto nadchodzi. Odstąpcie na stronę;
 Wyrwę mu z piersi cierpienia tajone.
 
 
-MONTEKI
-
-w tej sprawie, co nam serce rani,
-Mógł być szczęśliwszym od nas! Pójdźmy, pani.
+MONTEKIObyś w tej sprawie, co nam serce rani,
+Mógł szczęśliwszym od nas! Pójdźmy, pani.
 
 / Wychodzą Monteki i Pani Monteki. /
 
@@ -487,7 +487,7 @@ Dziewiąta biła dopiero.
 
 ROMEO
 
-                        Jak nudnie
+                        nudnie
 Wloką się chwile. Moi–ż to rodzice
 Tak spiesznie w tamtą zboczyli ulicę?
 
@@ -499,7 +499,10 @@ Tak jest. Lecz cóż tak chwile twoje dłuży?
 
 ROMEO
 
-Nieposiadanie tego, co je skraca.BENWOLIO
+Nieposiadanie tego, co je skraca.
+
+
+BENWOLIO
 
 Miłość więc?
 
@@ -521,25 +524,25 @@ Brak jej tam, skąd bym pragnął wzajemności.
 
 BENWOLIO
 
-Niestety! Czemuż, się niebianką,
+Niestety! Czemuż, zdając się niebianką,
 Miłość jest w gruncie tak srogą tyranką?
 
 
 ROMEO
 
 Niestety! Czemuż, z zasłoną na skroni,
-Miłość na oślep zawsze cel swój goni!
-Gdzież dziś jeść będziem? Ach! Był tu podobno
+Miłość na zawsze cel swój goni!
+dziś będziem? Ach! Był tu podobno
 Jakiś spór? Nie mów mi o nim, wiem wszystko.
 W grze tu nienawiść wielka, lecz i miłość.
 O! wy sprzeczności niepojęte dziwa!
 Szorstka miłości! nienawiści tkliwa!
 Coś narodzone z niczego! Pieszczoto
 Odpychająca! Poważna pustoto!
-Szpetny chaosie wdzięków! Ciężki puchu!
+Szpetny wdzięków! Ciężki puchu!
 Jasna mgło! Zimny żarze! Martwy ruchu!
 Śnie bez snu! Taką to w sobie zawiłość,
-Taką niełączność łączy miłość.
+Taką niełączność łączy moja miłość.
 Czy się nie śmiejesz?
 
 
@@ -564,15 +567,14 @@ ROMEO
                         A więc strzała
 Miłości nawet przez odbitkę działa?
 Dość mi już ciężył mój smutek, ty jego
-Brzemię powiększasz przewyżką twojego;
+Brzemię powiększasz przewyżką 
 Współczucie twoje nad moim cierpieniem
 Nie ulgą, ale nowym jest kamieniem
 Dla mego serca. Miłość, przyjacielu,
 To dym, co z parą westchnień się unosi;
 To żar, co w oku szczęśliwego płonie;
 Morze łez, w którym nieszczęśliwy tonie.
-Czymże jest więcej? Istnym amalgamem,
-Żółcią trawiącą i zbawczym balsamem.
+Czymże jest więcej? Istnym amalgamem,Żółcią trawiącą i zbawczym balsamem.
 Bądź zdrów.
 
 / chce odejść /
@@ -581,12 +583,12 @@ Bądź zdrów.
 BENWOLIO
 
                         Zaczekaj! krzywdę byś mi sprawił,
-Gdybyś mą przyjaźń z tak zostawił.
+Gdybyś mą przyjaźń z kwitkiem tak zostawił.
 
 
 ROMEO
 
-ja nie jestem tu, nie jestem sobą;
+Ach! ja nie jestem tu, nie jestem sobą;
 To nie Romeo, co rozmawia z tobą.
 
 
@@ -611,55 +613,54 @@ Kogóż to kochasz? Powiedz.
 ROMEO
 
                         Każ choremu
-Pisać testament: będzie–ż to wezwanie
+Pisać testament: będzie–ż to 
 Dobre dla tego, kto jest w tak złym stanie?
 A więc, kobietę kocham.
 
 
-BENWOLIO
+
 
                         Celniem mierzył,
-Gdym to pomyślał, nimeś mi powierzył.
+Gdym to pomyślał, nimeś mi 
 
 
 ROMEO
 
-Biegle celujesz. I którą kocham,
+Biegle celujesz. I ta, którą kocham,
 Jest piękna.
 
 
 BENWOLIO
 
-                        W piękny cel trafić najłatwiej.
+                        W piękny trafić najłatwiej.
 
 
-ROMEO
-
-A właśnieś chybił. Niczym tu kołczany
-Kupida; ona ma naturę Diany;Pod twardą zbroją wstydliwości swojej
+ROMEOA właśnieś chybił. Niczym tu kołczany
+ona ma naturę Diany;
+Pod twardą zbroją wstydliwości swojej
 Grotów miłości wcale się nie boi;
 Szydzi z nawału zaklęć oblężniczych;
 Odpiera szturmy spojrzeń napastniczych;
-Nawet jej złota nie zjedna.
-Bogata w wdzięki, w tym jedynie biedna,
+Nawet jej złota wszechwładztwo nie zjedna.
+w wdzięki, w tym jedynie biedna,
 Że kiedy umrze, do grobu z nią zstąpi
 Całe bogactwo, którego tak skąpi.
 
 
 BENWOLIO
 
-Wiecznie–ż chce sama zostać z swym bogactwem?
+Wiecznie–ż chce sama z swym bogactwem?
 
 
 ROMEO
 
-Tak jest; i skąpstwo to marnotrawstwem,
+Tak jest; i skąpstwo to jest marnotrawstwem,
 Bo piękność, którą własna srogość strawia,
-Całą potomność pozbawia.
-Zbyt ona piękna, mądra zarazem;
+Całą potomność piękności pozbawia.
+Zbyt ona piękna, zbyt mądra zarazem;
 Zbyt mądrze piękna: stąd istnym jest głazem.
-Przysięgła nigdy nie kochać i 
-Temu skazanym - wieczne cierpieć męki.
+Przysięgła nigdy nie kochać i dzięki
+Temu - wieczne cierpieć męki.
 
 
 BENWOLIO
@@ -670,7 +671,10 @@ Jest na to rada: przestań myśleć o niej.
 ROMEO
 
 Doradź–że także, jakim bym sposobem
-Mógł przestać myśleć.BENWOLIO
+Mógł przestać myśleć.
+
+
+BENWOLIO
 
                         Dając oczom wolność
 Rozpatrywania się w innych pięknościach.
